@@ -1,0 +1,11 @@
+﻿RDBS를 위한 SQL (MySQL, SQLite, MariaDB, OracleDB) <-> NoSQL
+
+
+- 토크ON세미나(47차) SQL로 입문하는 데이터 분석 레시피 @ http://j.mp/2FYKtg0 
+- (MySQL) 토이 프로젝트를 위한 속성 RDB 스터디 자료 @ http://j.mp/2Q5bH8e 
+
+
+- 파이썬 MySQL & MongoDB 블로그 @ http://j.mp/2No4YIO 
+- Oracle SQL (생활코딩) @ http://j.mp/2NjxPMP 
+- SQL Full course for beginners (영문 유튜브, 4시간) @ https://goo.gl/HBok4p 
+- SQL 검색 조건 조합 및 패턴 매칭 (그 외 SQL 포스팅) @ http://devwith.com/12
