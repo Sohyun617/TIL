@@ -1,0 +1,24 @@
+﻿[메인 학습 자료]
+
+
+- Webber study @ http://j.mp/329bc1j 
+- ZeroCho TV @ http://j.mp/2nrX8l1 
+
+
+
+
+[Reading]
+
+
+- 프론트엔드 개발자는 왜 구하기 어렵나요? @ https://goo.gl/rWI5gx 
+- 프론트엔드, 어떻게 준비해야 할까? @ https://goo.gl/s82vuj 
+- 탁월한 프론트엔드 엔지니어가 되는 법 @ https://goo.gl/9UtPc3 
+- 네이버 코딩컨벤션 @ http://goo.gl/iFVJoq 
+
+
+
+
+[Browsing]
+
+
+다양한 프론트엔드 아트 코드 CodePen @ http://codepen.io/
